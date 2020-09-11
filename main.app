@@ -1,0 +1,7 @@
+{
+    application,
+    main,
+    [
+        {mod, {main, []}}
+    ]
+}.
